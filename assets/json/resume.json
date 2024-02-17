@@ -1,199 +1,269 @@
 {
   "basics": {
-    "name": "Albert Einstein",
-    "label": "Scientist",
+    "name": "Pranav Agrawal",
     "image": "",
-    "email": "albert@einstein.de",
-    "phone": "(912) 123-4567",
-    "url": "https://alshedivat.github.io/al-folio/",
-    "summary": "A German-born theoretical physicist, widely ranked among the greatest and most influential scientists of all time",
+    "email": "pranav.agrawal.cs@gmail.com",
+    "phone": "+1 (571) 282-5305",
+    "url": "https://ompranavagrawal.github.io/",
     "location": {
-      "address": "2712 Broadway St",
-      "postalCode": "CA 94115",
-      "city": "San Francisco",
+      "address": "4345 Staffordshire Ln",
+      "postalCode": "22030",
+      "city": "Fairfax",
       "countryCode": "US",
-      "region": "California"
-    },
-    "profiles": [
-      {
-        "network": "Twitter",
-        "username": "AlbertEinstein",
-        "url": "https://twitter.com/AlbertEinstein"
-      }
-    ]
+      "region": "Virginia"
+    }
+
   },
   "work": [
     {
-      "name": "Institute for Advanced Study, Princeton University",
-      "position": "Professor of Theoretical Physics",
-      "url": "https://example.com",
-      "startDate": "1933-01-01",
-      "endDate": "1955-01-01",
-      "summary": "Teaching at Palmer Physical Laboratory (now 302 Frist Campus Center). While not a professor at Princeton, I associated with the physics professors and continued to give lectures on campus.",
-      "highlights": ["Relativity"]
-    }
-  ],
-  "volunteer": [
-    {
-      "organization": "People's Climate March",
-      "position": "Lead Organizer",
-      "url": "https://example.com",
-      "startDate": "2014-04-01",
-      "endDate": "2015-07-01",
-      "summary": "Lead organizer for the New York City branch of the People's Climate March, the largest climate march in history.",
-      "highlights": ["Awarded 'Climate Hero' award by Greenpeace for my efforts organizing the march.", "Men of the year 2014 by Time magazine"]
-    }
-  ],
-  "education": [
-    {
-      "institution": "University of Zurich, Zurich, Switzerland",
-      "location": "Zurich, Switzerland",
-      "url": "https://www.uzh.ch/",
-      "area": "Software Development",
-      "studyType": "PhD",
-      "startDate": "1905-01-01",
-      "endDate": "1905-01-01",
-      "score": "10",
-      "courses": ["Theory of Relativity"]
-    }
-  ],
-  "awards": [
-    {
-      "title": "Nobel Prize in Physics",
-      "date": "1921-11-01",
-      "awarder": "Royal Swedish Academy of Sciences",
-      "url": "https://www.nobelprize.org/prizes/physics/1921/einstein/biographical/",
-      "summary": "The Nobel Prizes are five separate prizes that, according to Alfred Nobel's will of 1895, are awarded to 'those who, during the preceding year, have conferred the greatest benefit to humankind.'"
-    }
-  ],
-  "certificates": [
-    {
-      "name": "Machine Learning",
-      "date": "2018-01-01",
-      "issuer": "Stanford University",
-      "url": "https://example.com",
-      "icon": "fa-solid fa-location-dot"
+      "name": "<b>George Mason University - College of Engineering and Computing</b>",
+      "position": "Graduate Research Assistant",
+      "url": "https://cec.gmu.edu/",
+      "startDate": "2023-05-25",
+      "summary": ["Enhanced data processing efficiency by utilizing BigQuery with Google Cloud Dataflow, reducing data redundancy by 7.3%, and optimizing data filtering, while also securing data storage and access with Cloud IAM protocols. <br><br> Automated query execution and data management in Google Cloud Storage using Python scripts, streamlining data updates and integrity checks in accordance with business requirements."]
     },
     {
-      "name": "Quantum Computing",
-      "date": "2018-01-01",
-      "issuer": "Stanford University",
-      "url": "https://example.com",
+      "name": "<b>Accenture</b>",
+      "position": "Application Development Senior Analyst",
+      "url": "https://www.accenture.com/in-en",
+      "startDate": "2021-05-27",
+      "endDate": "2022-07-27",
+      "summary": ["Strategically designed and deployed API architectures and service modules, customizing micro-services to precisely align with and fulfill business objectives. <br><br> Engineered automation of service execution using Cron expressions, refining batch file processing and code optimization that resulted in a 14% enhancement in execution speed. <br><br> Integrated Spring transaction management to oversee and handle incomplete DB transactions, while incorporating Log4j for robust logging functionality. <br><br> Elevated code coverage to 90% with rigorous unit testing and fortified security and data leakage issues by resolving vulnerabilities flagged by SonarQube and CheckMarx. <br><br> Developed a custom shell script to facilitate application deployment and execution on servers, streamlining the deployment process."]
+    },
+    {
+      "name": "<b>Wipro</b>",
+      "position": "Project Engineer",
+      "url": "https://www.wipro.com/",
+      "startDate": "2018-11-26",
+      "endDate": "2021-05-14",
+      "summary": ["Developed APIs to implement code for Approval and Activation in the application life cycle, and integrated AWS KMS to achieve secure user authentication. <br><br> Migrated code to a new framework by upgrading dependencies and implemented required code changes correspondingly. <br><br> Updated Apache Camel Fuse routes and then deployed all the structures in Karaf application server in form of OSGi bundles. <br><br> Deployed, built and tested the code in Jenkins and released them. <br><br> Automated logs for stats and event routes to accomplish proper Splunk Logging."]
+    }
+  ],
+
+  
+  
+  "education": [
+    {
+      "institution": "George Mason University",
+      "location": "Fairfax, Virginia, USA",
+      "url": "https://www.gmu.edu/",
+      "area": "<b>Computer Science<b>",
+      "studyType": "Masters",
+      "startDate": "2022-08-22",
+      "endDate": "2024-05-09",
+      "score": "3.78",
+      "courses": ["SWE645 - Component-Based Software Development", "SWE642 - Software Engineering for WWW","CS657 - Mining Mass Datasets MapReduce","CS584 - Theory/Application Data Mining","CS550 - Database Systems","CS695 - Blockchain and Cryptofinance","ISA562 - Info Security Theory/Practice","CS583 - Analysis of Algorithms I","CS531 - Comp Systems and Sys Prog","CS530 - Mathematical Foundations of CS"]
+    }
+  ],
+
+  "skills": [
+    {
+      "name": "<b>Programming Languages</b>",
+      "icon": "fa-solid fa-hashtag",
+      "keywords": [
+        "Java EE",
+        "Python",
+        "C",
+        "C++",
+        "JavaScript",
+        "Shell Scripting"
+      ]
+    },
+    {
+      "name": "<b>Frameworks & Libraries</b>",
+      "icon": "fa-solid fa-hashtag",
+      "keywords": [
+        "Spring",
+        "Spring Boot",
+        "AngularJS",
+        "Apache Spark"
+      ]
+    },
+    {
+      "name": "<b>Cloud Technologies</b>",
+      "icon": "fa-solid fa-hashtag",
+      "keywords": [
+        "Amazon Web Services (AWS)",
+        "Google Cloud Platform (GCP)"
+      ]
+    },
+    {
+      "name": "<b>Web Technologies</b>",
+      "icon": "fa-solid fa-hashtag",
+      "keywords": [
+        "HTML",
+        "CSS",
+        "XML",
+        "JSON",
+        "AJAX",
+        "Junit",
+        "Swagger API"
+      ]
+    },
+    {
+      "name": "<b>Web Services</b>",
+      "icon": "fa-solid fa-hashtag",
+      "keywords": [
+        "SOAP API",
+        "REST API",
+        "Postman",
+        "SoapUI"
+      ]
+    },
+    {
+      "name": "<b>Database Management</b>",
+      "icon": "fa-solid fa-hashtag",
+      "keywords": [
+        "SQL Server",
+        "MySQL",
+        "Oracle 11g",
+        "bigQuery",
+        "NoSQL",
+        "MongoDB"
+      ]
+    },
+    {
+      "name": "<b>Development Tools</b>",
+      "icon": "fa-solid fa-hashtag",
+      "keywords": [
+        "Maven",
+        "Jenkins",
+        "Git",
+        "BitBucket",
+        "SVN",
+        "Log4j"
+      ]
+    },
+    {
+      "name": "<b>Integrated Development Environments (IDEs)</b>",
+      "icon": "fa-solid fa-hashtag",
+      "keywords": [
+        "Eclipse",
+        "JBoss Developer Studio",
+        "STS",
+        "Rational Application Developer"
+      ]
+    },
+    {
+      "name": "<b>Application Servers</b>",
+      "icon": "fa-solid fa-hashtag",
+      "keywords": [
+        "Apache Karaf",
+        "Apache Tomcat",
+        "IBM WebSphere Liberty"
+      ]
+    },
+    {
+      "name": "<b>Others</b>",
+      "icon": "fa-solid fa-hashtag",
+      "keywords": [
+        "Unix Scripting",
+        "Red Hat Fuse(middleware)",
+        "Project Planning",
+        "SCRUM & Agile methodology",
+        "Jira",
+        "Artificial Intelligence",
+        "Machine Learning"
+      ]
+    }
+  ],
+  
+  "certificates": [
+    {
+      "name": "<b>AWS Certified Solution Architect</b>",
+      "date": "2024-01-04",
+      "issuer": "Amazon Web Services",
+      "url": "https://cp.certmetrics.com/amazon/en/public/verify/credential/FMC6YC4BQNFQ12CF",
       "icon": "fa-solid fa-tag"
     },
     {
-      "name": "Quantum Information",
-      "date": "2018-01-01",
-      "issuer": "Stanford University",
-      "url": "https://example.com",
-      "icon": "fa-solid fa-envelope"
+      "name": "<b>Taming Big Data with Apache Spark and Python - Hands On!</b>",
+      "date": "2023-12-22",
+      "issuer": "Udemy",
+      "url": "https://www.udemy.com/certificate/UC-fe98e8ff-83e3-48f6-8e2b-a8d59af603b2/",
+      "icon": "fa-solid fa-tag"
+
     },
     {
-      "name": "Quantum Cryptography",
-      "date": "2018-01-01",
-      "issuer": "Stanford University",
-      "url": "https://example.com",
-      "icon": "fa-solid fa-hashtag"
+      "name": "<b>JPMorgan Chase & Co. Agile Virtual Experience Program with Forage</b>",
+      "date": "2023-07-21",
+      "issuer": "JPMorgan Chase & Co. - Forage",
+      "url": "https://forage-uploads-prod.s3.amazonaws.com/completion-certificates/J.P.%20Morgan/5QiaMtZ4k8ngYKn4D_JPMorgan%20Chase%20&%20Co._eqrtBQuRrDwMawDMn_1691978071801_completion_certificate.pdf",
+      "icon": "fa-solid fa-tag"
     },
     {
-      "name": "Quantum Communication",
-      "date": "2018-01-01",
-      "issuer": "Stanford University",
-      "url": "https://example.com",
-      "icon": "fa-solid fa-calendar"
+      "name": "<b>Software Engineering Lite Job Simulation</b>",
+      "date": "2023-08-14",
+      "issuer": "JPMorgan Chase & Co. - Forage",
+      "url": "https://forage-uploads-prod.s3.amazonaws.com/completion-certificates/J.P.%20Morgan/Wb4yEmHvZrC2qxiyX_JPMorgan%20Chase%20&%20Co._eqrtBQuRrDwMawDMn_1691977189478_completion_certificate.pdf",
+      "icon": "fa-solid fa-tag"
+
     },
     {
-      "name": "Quantum Teleportation",
-      "date": "2018-01-01",
-      "issuer": "Stanford University",
-      "url": "https://example.com",
-      "icon": "fa-solid fa-clipboard-check"
+      "name": "<b>Software Engineering Job Simulation</b>",
+      "date": "2023-08-14",
+      "issuer": "JPMorgan Chase & Co. - Forage",
+      "url": "https://forage-uploads-prod.s3.amazonaws.com/completion-certificates/J.P.%20Morgan/R5iK7HMxJGBgaSbvk_J.P.%20Morgan_eqrtBQuRrDwMawDMn_1691976621657_completion_certificate.pdf",
+      "icon": "fa-solid fa-tag"
+    },
+    {
+      "name": "<b>Wipro TopGear Java Competency JAVA L2</b>",
+      "date": "2020-02-15",
+      "issuer": "Wipro",
+      "url": "https://drive.google.com/file/d/16E_PuwkCFmCEMZpi6WXZAHNiApmm5omq/view?usp=drive_link",
+      "icon": "fa-solid fa-tag"
+
     }
   ],
-  "publications": [
+
+  "awards": [
     {
-      "name": "Zur Elektrody/namik bewegter Körper",
-      "publisher": "Annalen der Physik",
-      "releaseDate": "1905-06-30",
-      "url": "https://en.wikisource.org/wiki/Translation:On_the_Electrodynamics_of_Moving_Bodies",
-      "summary": "It concerned an interpretation of the Michelson–Morley experiment and the properties of light and time. Special relativity incorporates the principle that the speed of light is the same for all inertial observers regardless of the state of motion of the source."
+      "title": "Pinnacle Awards FY22",
+      "date": "2022-04",
+      "awarder": "Accenture",
+      "url": "https://drive.google.com/file/d/1q8y2hqxVsBvQXp2Yx-rV7XvZJrLLuTZv/view?usp=drive_link"
     },
     {
-      "name": "Über einen die Erzeugung und Verwandlung des Lichtes betreffenden heuristischen Gesichtspunkt",
-      "publisher": "Annalen der Physik",
-      "releaseDate": "1905-03-18",
-      "url": "https://de.wikisource.org/wiki/Über_einen_die_Erzeugung_und_Verwandlung_des_Lichtes_betreffenden_heuristischen_Gesichtspunkt",
-      "summary": "In the second paper, he applied the quantum theory to light to explain the photoelectric effect. In particular, he used the idea of light quanta (photons) to explain experimental results, but stressed the importance of the experimental results. The importance of his work on the photoelectric effect earned him the Nobel Prize in Physics in 1921."
+      "title": "V360 Award",
+      "date": "2022-03",
+      "awarder": "Accenture",
+      "url": "https://drive.google.com/file/d/1PVag4ysgxy-kbijWFRTBm1mM7QYld8Jo/view?usp=drive_link"
     },
     {
-      "name": "Die Grundlage der allgemeinen Relativitätstheorie",
-      "publisher": "Annalen der Physik",
-      "releaseDate": "1916-03-20",
-      "url": "https://de.wikisource.org/wiki/Die_Grundlage_der_allgemeinen_Relativitätstheorie",
-      "summary": "The publication of the theory of general relativity made him internationally famous. He was professor of physics at the universities of Zurich (1909–1911) and Prague (1911–1912), before he returned to ETH Zurich (1912–1914)."
-    }
-  ],
-  "skills": [
+      "title": "Client Value Creation Award",
+      "date": "2022-01",
+      "awarder": "Accenture",
+      "url": "https://drive.google.com/file/d/1Z9l12ynf3U4rXaiSvSyTibOzBVhSs-Z8/view?usp=drive_link"
+    },
     {
-      "name": "Physics",
-      "level": "Master",
-      "icon": "fa-solid fa-hashtag",
-      "keywords": [
-        "Quantum Mechanics",
-        "Quantum Computing",
-        "Quantum Information",
-        "Quantum Cryptography",
-        "Quantum Communication",
-        "Quantum Teleportation"
-      ]
+      "title": "Winner Circle Points",
+      "date": "2021-01",
+      "awarder": "Wipro",
+      "url": "https://drive.google.com/file/d/1meGCmDfffyUQVCjHSsQB3vQrqT3dGLv7/view?usp=drive_link"
     }
   ],
+
   "languages": [
     {
-      "language": "German",
-      "fluency": "Native speaker",
-      "icon": ""
-    },
-    {
-      "language": "English",
+      "language": "<b>English</b>",
       "fluency": "Fluent",
-      "icon": ""
-    }
-  ],
-  "interests": [
-    {
-      "name": "Physics",
-      "icon": "fa-solid fa-tag",
-      "keywords": [
-        "Quantum Mechanics",
-        "Quantum Computing",
-        "Quantum Information",
-        "Quantum Cryptography",
-        "Quantum Communication",
-        "Quantum Teleportation"
-      ]
-    }
-  ],
-  "references": [
-    {
-      "name": "Professor John Doe",
-      "icon": "fa-solid fa-laptop",
-      "reference": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Aliquam condimentum, diam quis convallis euismod, arcu mi ullamcorper lorem, a vestibulum nunc magna at sem. Sed in risus ac felis varius blandit. D"
+      "icon": "fa-solid fa-star"
     },
     {
-      "name": "Professor John Doe",
-      "icon": "fa-solid fa-thumbtack",
-      "reference": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Aliquam condimentum, diam quis convallis euismod, arcu mi ullamcorper lorem, a vestibulum nunc magna at sem. Sed in risus ac felis varius blandit. D"
+      "language": "<b>Hindi</b>",
+      "fluency": "Fluent",
+      "icon": "fa-solid fa-star"
     }
   ],
-  "projects": [
+
+  "volunteer": [
     {
-      "name": "Quantum Computing",
-      "summary": "Quantum computing is the use of quantum-mechanical phenomena such as superposition and entanglement to perform computation. Computers that perform quantum computations are known as quantum computers.",
-      "highlights": ["Quantum Teleportation", "Quantum Cryptography"],
-      "startDate": "2018-01-01",
-      "endDate": "2018-01-01",
-      "url": "https://example.com"
+      "organization": "Shri Mahant Indiresh Hospital Blood Bank",
+      "position": "Health Screening Volunteer",
+      "url": "https://www.smihospital.com/",
+      "startDate": "2015-01-15",
+      "endDate": "2015-01-15",
+      "summary": "Assisted medical staff by conducting preliminary health screenings of potential donors, such as checking temperature and blood pressure using automated equipment provided."
     }
   ]
 }
