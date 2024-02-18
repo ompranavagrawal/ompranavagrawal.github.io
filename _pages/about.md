@@ -14,7 +14,7 @@ profile:
 social: true # includes social icons at the bottom of the page
 ---
 
-A passionate programmer with over 4+ years of experience, I specialize in developing robust Java Spring Boot web services, emphasizing algorithm optimization and data analytics. My expertise spans across application development with Spring, Spring Boot, and designing RESTful and SOAP web services. I am proficient in handling databases such as Oracle, SQL Server, and MySQL, underscoring my comprehensive backend development skills.
+I am a passionate programmer with over 4+ years of experience, I specialize in developing robust Java Spring Boot web services, emphasizing algorithm optimization and data analytics. My expertise spans across application development with Spring, Spring Boot, and designing RESTful and SOAP web services. I am proficient in handling databases such as Oracle, SQL Server, and MySQL, underscoring my comprehensive backend development skills.
 
 I hold AWS Certified Solutions Architect certification, reflecting my ability to architect and deploy secure and scalable applications on the AWS platform. My commitment to excellence is demonstrated through implementing design patterns like DAO, DTO, MVC, and maintaining a keen interest in staying abreast of the latest technological advancements.
 

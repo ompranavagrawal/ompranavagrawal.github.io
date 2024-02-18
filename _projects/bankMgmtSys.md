@@ -2,7 +2,7 @@
 layout: page
 title: Bank Management System
 description: Application based on Python with Oracle 11g.
-img:
+img: assets/img/th4.jpg
 importance: 4
 category: Software Engineering
 ---

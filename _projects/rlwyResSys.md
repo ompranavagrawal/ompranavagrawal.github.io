@@ -2,7 +2,7 @@
 layout: page
 title: Railways Reservation System
 description: Web service using Spring Boot and MongoDB.
-img:
+img: assets/img/th6.png
 importance: 6
 category: Software Engineering
 ---

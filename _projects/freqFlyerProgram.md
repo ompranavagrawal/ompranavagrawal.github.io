@@ -2,7 +2,7 @@
 layout: page
 title: Frequent Flyer Program
 description: An application based on Java, JDBC and Android app development.
-img: assets/img/7.jpg
+img: assets/img/th3.jpg
 importance: 3
 category: Software Engineering
 giscus_comments: true

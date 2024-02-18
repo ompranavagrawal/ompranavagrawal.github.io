@@ -2,7 +2,7 @@
 layout: page
 title: Student Survey Application
 description: An application of Spring Boot based web services with JPA, Angular and Docker.
-img: assets/img/3.jpg
+img: assets/img/th2.png
 importance: 2
 category: Software Engineering
 giscus_comments: true
