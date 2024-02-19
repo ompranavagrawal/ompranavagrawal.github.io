@@ -1,65 +1,48 @@
 ---
 layout: page
-title: Awards
 permalink: /awards/
-description: A growing collection of your cool projects.
+title: Awards
 nav: true
 nav_order: 4
-display_categories: [work, fun]
-horizontal: false
 ---
 
-<!-- pages/projects.md -->
-<div class="projects">
-{% if site.enable_project_categories and page.display_categories %}
-  <!-- Display categorized projects -->
-  {% for category in page.display_categories %}
-  <a id="{{ category }}" href=".#{{ category }}">
-    <h2 class="category">{{ category }}</h2>
-  </a>
-  {% assign categorized_projects = site.projects | where: "category", category %}
-  {% assign sorted_projects = categorized_projects | sort: "importance" %}
-  <!-- Generate cards for each project -->
-  {% if page.horizontal %}
-  <div class="container">
-    <div class="row row-cols-2">
-    {% for project in sorted_projects %}
-      {% include projects_horizontal.liquid %}
-    {% endfor %}
+<div>
+    
+    <div class="row">
+        <div class="mt-3 mt-md-0 mx-auto">
+            {% include figure.liquid path="assets/img/pinnacle.png" title="Pinnacle Awards FY22 | Accenture | 2022 04" class="img-fluid rounded z-depth-1" %}
+        </div>
     </div>
-  </div>
-  {% else %}
-  <div class="grid">
-    {% for project in sorted_projects %}
-      {% include projects.liquid %}
-    {% endfor %}
-  </div>
-  {% endif %}
-  {% endfor %}
-
-{% else %}
-
-<!-- Display projects without categories -->
-
-{% assign sorted_projects = site.projects | sort: "importance" %}
-
-  <!-- Generate cards for each project -->
-
-{% if page.horizontal %}
-
-  <div class="container">
-    <div class="row row-cols-2">
-    {% for project in sorted_projects %}
-      {% include projects_horizontal.liquid %}
-    {% endfor %}
+    <div class="caption"><h4>
+        Pinnacle Awards FY22 | Accenture | 2022 04
+        </h4>
+    </div><br>
+     <div class="row">
+        <div class="mx-auto mt-3 mt-md-0">
+            {% include figure.liquid path="assets/img/v360.png" title="V360 Award | Accenture | 2022 03" class="img-fluid rounded z-depth-1" %}
+        </div>
     </div>
-  </div>
-  {% else %}
-  <div class="grid">
-    {% for project in sorted_projects %}
-      {% include projects.liquid %}
-    {% endfor %}
-  </div>
-  {% endif %}
-{% endif %}
-</div>
+    <div class="caption"><h4>
+        V360 Award | Accenture | 2022 03
+        </h4>
+    </div><br>
+    <div class="row">
+        <div class="mt-3 mt-md-0 mx-auto">
+            {% include figure.liquid path="assets/img/ClientValueCreation.png" title="Client Value Creation Award | Accenture | 2022 01" class="img-fluid rounded z-depth-1" %}
+        </div>
+    </div>
+    <div class="caption"><h4>
+            Client Value Creation Award | Accenture | 2022 01
+            </h4>
+    </div><br>
+    <div class="row">
+        <div class="mx-auto mt-3 mt-md-0">
+            {% include figure.liquid path="assets/img/WiproWinnerCircle.png" title="Winner Circle Points | Wipro | 2021 01" class="img-fluid rounded z-depth-1" %}
+        </div>
+    </div>
+    <div class="caption"><h4>
+        Winner Circle Points | Wipro | 2021 01
+        </h4>
+    </div><br>
+
+</div>    
