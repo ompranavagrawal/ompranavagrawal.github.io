@@ -28,7 +28,7 @@ nav_order: 4
     </div><br>
     <div class="row">
         <div class="mt-3 mt-md-0 mx-auto">
-            {% include figure.liquid path="assets/img/ClientValueCreation.png" title="Client Value Creation Award | Accenture | 2022 01" class="img-fluid rounded z-depth-1" %}
+            {% include figure.liquid path="assets/img/clientValueCreation.png" title="Client Value Creation Award | Accenture | 2022 01" class="img-fluid rounded z-depth-1" %}
         </div>
     </div>
     <div class="caption"><h4>
@@ -37,7 +37,7 @@ nav_order: 4
     </div><br>
     <div class="row">
         <div class="mx-auto mt-3 mt-md-0">
-            {% include figure.liquid path="assets/img/WiproWinnerCircle.png" title="Winner Circle Points | Wipro | 2021 01" class="img-fluid rounded z-depth-1" %}
+            {% include figure.liquid path="assets/img/wiproWinnerCircle.png" title="Winner Circle Points | Wipro | 2021 01" class="img-fluid rounded z-depth-1" %}
         </div>
     </div>
     <div class="caption"><h4>
