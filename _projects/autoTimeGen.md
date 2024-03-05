@@ -5,7 +5,6 @@ description: An application of Genetic Algorithm
 img: assets/img/th1.png
 importance: 1
 category: Software Engineering
-related_publications: true
 ---
     
     Title: Automated Timetable Generator using Genetic Algorithm 

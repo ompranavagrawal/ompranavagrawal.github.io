@@ -5,7 +5,6 @@ description: An application of Spring Boot based web services with JPA, Angular 
 img: assets/img/th2.png
 importance: 2
 category: Software Engineering
-giscus_comments: true
 ---
 
     Title: Student Survey Application
