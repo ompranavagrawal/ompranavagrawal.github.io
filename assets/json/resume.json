@@ -19,24 +19,21 @@
       "name": "<b>George Mason University - College of Engineering and Computing</b>",
       "position": "Graduate Research Assistant",
       "url": "https://cec.gmu.edu/",
-      "startDate": "2023-05-25",
-      "summary": ["Developed Python scripts to query large transactions for a specific stablecoin using Amazon Redshift, enabling detailed analysis of transaction patterns. <br><br> Segregated and analyzed monthly transactions data for critical insights, aiding in the identification of potential security vulnerabilities in cross-chain operations. <br><br> Automated the upload process of transaction data to Amazon S3 to ensure data accessibility for further analysis. <br><br> Developed and maintained the automation of cloud-based resources using Terraform to ensure consistent and secure deployment of infrastructure components."]
+      "startDate": "2023-05-25"
     },
     {
       "name": "<b>Accenture</b>",
       "position": "Application Development Senior Analyst",
       "url": "https://www.accenture.com/in-en",
       "startDate": "2021-05-27",
-      "endDate": "2022-07-27",
-      "summary": ["Developed microservices to track program, activity and milestone components within insurance applications and made their APIs available for integration with other microservices and internal applications, thereby increasing interface reusability amongst applications within the organization. <br><br> Improved batch job efficiency by 29% by processing only recent database changes, and automated execution with Cron expressions to minimize manual effort. <br><br> Integrated Spring transaction management across APIs, to enhance DB transaction consistency. <br><br> Increased code coverage to 90% with unit tests, measured by Cobertura, and fixed security and data leakage vulnerabilities flagged by SonarQube and CheckMarx. <br><br> Automated microservices deployment and execution on servers with shell scripts, then integrated these into Jenkins CI/CD to minimize manual effort."]
+      "endDate": "2022-07-27"
     },
     {
       "name": "<b>Wipro</b>",
       "position": "Project Engineer",
       "url": "https://www.wipro.com/",
       "startDate": "2018-11-26",
-      "endDate": "2021-05-14",
-      "summary": ["Developed APIs for comprehensive management of healthcare insurance processes, including quotation and application, onboarding, claims processing, and document management, to enhance efficiency in handling healthcare and insurance policy-related transactions. <br><br> Integrated AWS KMS and Vault for comprehensive encryption of data in the cloud, ensuring robust security for storage and management of sensitive information. <br><br> Migrated code to updated  framework by upgrading dependencies ,restructuring code and libraries, and making the required code changes. <br><br> Updated Apache Camel Fuse enterprise service bus routes and deployed OSGi bundle on Apache Karaf to deploy and test applications. <br><br> Automated log retrieval system for statistics and event routing, designed to efficiently forward logs to Splunk for enhanced logging."]
+      "endDate": "2021-05-14"
     }
   ],
 
