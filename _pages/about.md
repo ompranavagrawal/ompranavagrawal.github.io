@@ -8,7 +8,7 @@ profile:
   image: Profile.jpeg
   image_circular: false # crops the image to make it circular
   more_info: >
-    <p>2 Pierce Ave #422</p>
+    <p>2 Pierce Ave, 422</p>
     <p>San Jose, California, 95110</p>
 
 social: true # includes social icons at the bottom of the page
