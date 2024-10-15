@@ -6,8 +6,8 @@ img: assets/img/th1.png
 importance: 1
 category: Software Engineering
 ---
-    
-    Title: Automated Timetable Generator using Genetic Algorithm 
+
+    Title: Automated Timetable Generator using Genetic Algorithm
     Source code link : https://github.com/ompranavagrawal/Automated-Timetable-Generator-using-Genetic-Algorithm
 
 <div>
@@ -112,6 +112,4 @@ category: Software Engineering
     </ul>Exit Criteia: <ul><li>All High Priority errors from System Test must be ﬁxed and tested</li></ul></div><br>
     <div><h3>Test cases and Test results</h3></div>
     <div>Outlined below are the main test types that are performed for this release. All test entries on wrong input has been tested to verify code stablilty and correctness. The test cases presented here are based on criterias presented above to validate its test implementation. Each test case table list the detailed test case results for each interface and its user inputs that can be assinged by the user to check the correctness of its implematation.</div><br>
-</div>    
-
-
+</div>

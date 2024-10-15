@@ -8,7 +8,7 @@ category: Data Science & Machine Learning
 ---
 
     Title: PySpark - Machine Learning on Big Data
-    Description: PySpark ML with TF-IDF, CrossValidator, ParamGrid, LogisticRegression, LinearSVC, RandomForestClassifier, MultilayerPerceptronClassifier. 
+    Description: PySpark ML with TF-IDF, CrossValidator, ParamGrid, LogisticRegression, LinearSVC, RandomForestClassifier, MultilayerPerceptronClassifier.
     Source code link: https://gitfront.io/r/ompranavagrawal/Nv5h64hkbadi/PySpark-Machine-Learning-on-big-data/
 
 <div class="row"><h3>Introduction</h3></div>
@@ -35,7 +35,6 @@ category: Data Science & Machine Learning
         <li><b>Data Balancing</b>: The dataset is balanced by undersampling the majority class to improve model performance on minority classes.</li>
     </ul>
 </div><br>
-
 
 <div class="row"><h4>Model Training and Evaluation</h4></div>
 <div>

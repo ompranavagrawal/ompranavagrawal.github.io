@@ -8,7 +8,7 @@ category: Data Science & Machine Learning
 ---
 
     Title: PySpark - Machine Learning with Gradient Boost and Random Forest Classifier
-    Description: PySpark ML with TF-IDF, CrossValidator, ParamGrid, DecisionTreeClassifier, RandomForestClassifier, GBTClassifier, MultilayerPerceptronClassifier. 
+    Description: PySpark ML with TF-IDF, CrossValidator, ParamGrid, DecisionTreeClassifier, RandomForestClassifier, GBTClassifier, MultilayerPerceptronClassifier.
     Source code link: https://gitfront.io/r/pranav/AGyTKh2Lq4kd/PySpark-Machine-Learning-with-Gradient-Boost-and-Random-Forest-Classifier/
     Video Link: https://youtu.be/G-MCYTs8FpQ
 

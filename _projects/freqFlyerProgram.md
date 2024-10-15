@@ -11,7 +11,7 @@ category: Software Engineering
     description: An application based on Java, JDBC and Android app development.
     Source code link: https://gitfront.io/r/pranav/t8azxTpsm8Hq/Frequent-Flier-Program-Application/
     Video link: https://youtu.be/YbEA2kdKibk
-    
+
 <div class="row"><h3>Description</h3></div>
 <div class="row">
     The project entails creating a server-side application with Java to manage a Frequent Flier program, connected to a database for handling operations such as user authentication, viewing flight details, managing awards, and transferring points. Additionally, it requires building an Android mobile application that interacts with the server-side components to provide a user-friendly interface for accessing the program's features. This comprehensive system aims to demonstrate a practical implementation of server-client communication and database management in a real-world application scenario, culminating in a video demonstration of the working application.

@@ -4,7 +4,7 @@
 
 title: blank # the website title (if blank, full name will be used instead)
 first_name: Pranav
-middle_name: 
+middle_name:
 last_name: Agrawal
 email: pranav.agrawal.cs@gmail.com
 description: > # the ">" symbol means to ignore newlines until "footer_text:"
@@ -138,17 +138,17 @@ pagination:
 # Giscus comments (RECOMMENDED)
 # Follow instructions on https://giscus.app/ to setup for your repo to fill out the information below.
 #giscus:
-  #repo: # <your-github-user-name>/<your-github-repo-name>
-  #repo_id: # leave empty or specify your repo_id (see https://giscus.app/)
-  #category: Comments # name of the category under which discussions will be created
-  #category_id: # leave empty or specify your category_id (see https://giscus.app/)
-  #mapping: title # identify discussions by post title
-  #strict: 1 # use strict identification mode
-  #reactions_enabled: 1 # enable (1) or disable (0) emoji reactions
-  #input_position: bottom # whether to display input form below (bottom) or above (top) the comments
-  #theme: preferred_color_scheme # name of the color scheme (preferred works well with al-folio light/dark mode)
-  #emit_metadata: 0
-  #lang: en
+#repo: # <your-github-user-name>/<your-github-repo-name>
+#repo_id: # leave empty or specify your repo_id (see https://giscus.app/)
+#category: Comments # name of the category under which discussions will be created
+#category_id: # leave empty or specify your category_id (see https://giscus.app/)
+#mapping: title # identify discussions by post title
+#strict: 1 # use strict identification mode
+#reactions_enabled: 1 # enable (1) or disable (0) emoji reactions
+#input_position: bottom # whether to display input form below (bottom) or above (top) the comments
+#theme: preferred_color_scheme # name of the color scheme (preferred works well with al-folio light/dark mode)
+#emit_metadata: 0
+#lang: en
 
 # Disqus comments (DEPRECATED)
 #disqus_shortname: al-folio # put your disqus shortname
@@ -158,8 +158,8 @@ pagination:
 # If you have blog posts published on medium.com or other external sources,
 # you can display them in your blog by adding a link to the RSS feed.
 #external_sources:
-  #- name: medium.com
-    #rss_url: https://medium.com/@al-folio/feed
+#- name: medium.com
+#rss_url: https://medium.com/@al-folio/feed
 
 # -----------------------------------------------------------------------------
 # Collections
@@ -167,23 +167,23 @@ pagination:
 
 collections:
   #news:
-    #defaults:
-      #layout: post
-    #output: true
-    #permalink: /news/:path/
+  #defaults:
+  #layout: post
+  #output: true
+  #permalink: /news/:path/
   projects:
     output: true
     permalink: /projects/:path/
 
 #announcements:
-  #enabled: true
-  #scrollable: true # adds a vertical scroll bar if there are more than 3 news items
-  #limit: 5 # leave blank to include all the news in the `_news` folder
+#enabled: true
+#scrollable: true # adds a vertical scroll bar if there are more than 3 news items
+#limit: 5 # leave blank to include all the news in the `_news` folder
 
 #latest_posts:
-  #enabled: true
-  #scrollable: true # adds a vertical scroll bar if there are more than 3 new posts items
-  #limit: 3 # leave blank to include all the blog posts
+#enabled: true
+#scrollable: true # adds a vertical scroll bar if there are more than 3 new posts items
+#limit: 3 # leave blank to include all the blog posts
 
 # -----------------------------------------------------------------------------
 # Jekyll settings

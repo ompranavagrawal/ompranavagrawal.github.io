@@ -12,7 +12,6 @@
       "countryCode": "US",
       "region": "California"
     }
-
   },
   "work": [
     {
@@ -37,8 +36,6 @@
     }
   ],
 
-  
-  
   "education": [
     {
       "institution": "George Mason University",
@@ -49,7 +46,18 @@
       "startDate": "2022-08-22",
       "endDate": "2024-05-09",
       "score": "3.78",
-      "courses": ["SWE645 - Component-Based Software Development", "SWE642 - Software Engineering for WWW","CS657 - Mining Mass Datasets MapReduce","CS584 - Theory/Application Data Mining","CS550 - Database Systems","CS695 - Blockchain and Cryptofinance","ISA562 - Info Security Theory/Practice","CS583 - Analysis of Algorithms I","CS531 - Comp Systems and Sys Prog","CS530 - Mathematical Foundations of CS"]
+      "courses": [
+        "SWE645 - Component-Based Software Development",
+        "SWE642 - Software Engineering for WWW",
+        "CS657 - Mining Mass Datasets MapReduce",
+        "CS584 - Theory/Application Data Mining",
+        "CS550 - Database Systems",
+        "CS695 - Blockchain and Cryptofinance",
+        "ISA562 - Info Security Theory/Practice",
+        "CS583 - Analysis of Algorithms I",
+        "CS531 - Comp Systems and Sys Prog",
+        "CS530 - Mathematical Foundations of CS"
+      ]
     }
   ],
 
@@ -57,99 +65,47 @@
     {
       "name": "<b>Programming Languages</b>",
       "icon": "fa-solid fa-hashtag",
-      "keywords": [
-        "Java EE",
-        "Python",
-        "C",
-        "C++",
-        "JavaScript",
-        "Shell Scripting"
-      ]
+      "keywords": ["Java EE", "Python", "C", "C++", "JavaScript", "Shell Scripting"]
     },
     {
       "name": "<b>Frameworks & Libraries</b>",
       "icon": "fa-solid fa-hashtag",
-      "keywords": [
-        "Spring",
-        "Spring Boot",
-        "AngularJS",
-        "ReactJS",
-        "Apache Spark"
-      ]
+      "keywords": ["Spring", "Spring Boot", "AngularJS", "ReactJS", "Apache Spark"]
     },
     {
       "name": "<b>Cloud Technologies</b>",
       "icon": "fa-solid fa-hashtag",
-      "keywords": [
-        "Amazon Web Services (AWS)",
-        "Google Cloud Platform (GCP)"
-      ]
+      "keywords": ["Amazon Web Services (AWS)", "Google Cloud Platform (GCP)"]
     },
     {
       "name": "<b>Web Technologies</b>",
       "icon": "fa-solid fa-hashtag",
-      "keywords": [
-        "HTML",
-        "CSS",
-        "XML",
-        "JSON",
-        "AJAX",
-        "Junit",
-        "Swagger API"
-      ]
+      "keywords": ["HTML", "CSS", "XML", "JSON", "AJAX", "Junit", "Swagger API"]
     },
     {
       "name": "<b>Web Services</b>",
       "icon": "fa-solid fa-hashtag",
-      "keywords": [
-        "SOAP API",
-        "REST API",
-        "Postman",
-        "SoapUI"
-      ]
+      "keywords": ["SOAP API", "REST API", "Postman", "SoapUI"]
     },
     {
       "name": "<b>Database Management</b>",
       "icon": "fa-solid fa-hashtag",
-      "keywords": [
-        "SQL Server",
-        "MySQL",
-        "Oracle 11g",
-        "bigQuery",
-        "NoSQL",
-        "MongoDB"
-      ]
+      "keywords": ["SQL Server", "MySQL", "Oracle 11g", "bigQuery", "NoSQL", "MongoDB"]
     },
     {
       "name": "<b>Development Tools</b>",
       "icon": "fa-solid fa-hashtag",
-      "keywords": [
-        "Maven",
-        "Jenkins",
-        "Git",
-        "BitBucket",
-        "SVN",
-        "Log4j"
-      ]
+      "keywords": ["Maven", "Jenkins", "Git", "BitBucket", "SVN", "Log4j"]
     },
     {
       "name": "<b>Integrated Development Environments (IDEs)</b>",
       "icon": "fa-solid fa-hashtag",
-      "keywords": [
-        "Eclipse",
-        "JBoss Developer Studio",
-        "STS",
-        "Rational Application Developer"
-      ]
+      "keywords": ["Eclipse", "JBoss Developer Studio", "STS", "Rational Application Developer"]
     },
     {
       "name": "<b>Application Servers</b>",
       "icon": "fa-solid fa-hashtag",
-      "keywords": [
-        "Apache Karaf",
-        "Apache Tomcat",
-        "IBM WebSphere Liberty"
-      ]
+      "keywords": ["Apache Karaf", "Apache Tomcat", "IBM WebSphere Liberty"]
     },
     {
       "name": "<b>Others</b>",
@@ -165,7 +121,7 @@
       ]
     }
   ],
-  
+
   "certificates": [
     {
       "name": "<b>AWS Certified Solution Architect - Associate</b>",
@@ -180,7 +136,6 @@
       "issuer": "Udemy",
       "url": "https://www.udemy.com/certificate/UC-fe98e8ff-83e3-48f6-8e2b-a8d59af603b2/",
       "icon": "fa-solid fa-tag"
-
     },
     {
       "name": "<b>JPMorgan Chase & Co. Agile Virtual Experience Program with Forage</b>",
@@ -195,7 +150,6 @@
       "issuer": "JPMorgan Chase & Co. - Forage",
       "url": "https://forage-uploads-prod.s3.amazonaws.com/completion-certificates/J.P.%20Morgan/Wb4yEmHvZrC2qxiyX_JPMorgan%20Chase%20&%20Co._eqrtBQuRrDwMawDMn_1691977189478_completion_certificate.pdf",
       "icon": "fa-solid fa-tag"
-
     },
     {
       "name": "<b>Software Engineering Job Simulation</b>",
@@ -210,7 +164,6 @@
       "issuer": "Wipro",
       "url": "https://drive.google.com/file/d/16E_PuwkCFmCEMZpi6WXZAHNiApmm5omq/view?usp=drive_link",
       "icon": "fa-solid fa-tag"
-
     }
   ],
 

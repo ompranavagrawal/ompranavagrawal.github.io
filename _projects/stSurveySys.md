@@ -12,7 +12,6 @@ category: Software Engineering
     Source code link: https://gitfront.io/r/pranav/EnGL3jprcxGx/student-Survey-Application/
     Video link: https://youtu.be/MwEHHcC--Qw
 
-
 <div class="row"><h3>Description</h3></div>
 <div class="row">
     This project is a web-based survey system designed for prospective students visiting a university campus. It utilizes a three-tier architecture, integrating frontend, backend, and database technologies. The frontend is developed using Angular, offering a user-friendly interface for survey submission and displaying results. The backend is built with RESTful Web Services, employing Spring Boot for handling data interactions, either through JDBC or JPA. The database tier stores survey-related information. Additionally, Docker containerization is applied to encapsulate both frontend and backend components, ensuring efficient deployment and scalability.
@@ -72,4 +71,3 @@ category: Software Engineering
 <div class="caption">
         List all Survaye Page
 </div><br>
-

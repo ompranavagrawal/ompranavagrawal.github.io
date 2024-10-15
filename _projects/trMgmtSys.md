@@ -1,14 +1,14 @@
 ---
 layout: page
 title: Trainee Management System
-description: An application based on Java Spring Boot we application development with JSP. 
+description: An application based on Java Spring Boot we application development with JSP.
 img: assets/img/th5.png
 importance: 5
 category: Software Engineering
 ---
 
     Title: Trainee Management System
-    description: An application based on Java Spring Boot we application development with JSP. 
+    description: An application based on Java Spring Boot we application development with JSP.
     Source code link: https://github.com/ompranavagrawal/traineeManagementSystem.git
 
 <div class="row"><h3>Introduction</h3></div>

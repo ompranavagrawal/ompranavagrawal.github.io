@@ -21,5 +21,3 @@ I hold AWS Certified Solutions Architect certification, reflecting my ability to
 My experience extends to successful teamwork and communication within complex projects, where I've leveraged version control tools like Git, Bitbucket, and SVN to enhance collaboration and code quality. I am adept in unit testing with JUnit and have a solid background in utilizing development tools such as Eclipse, JBoss Developer Studio, and STS, ensuring high-quality software solutions.
 
 In every project, I apply my analytical and problem-solving skills to overcome challenges and deliver value. My goal is to continuously evolve as a software developer, embracing new technologies and methodologies to drive innovation and efficiency in the digital landscape.
-
-

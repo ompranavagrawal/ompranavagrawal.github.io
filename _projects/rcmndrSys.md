@@ -8,7 +8,7 @@ category: Data Science & Machine Learning
 ---
 
     Title: PySpark - Recommender System
-    Description: ALS-based movie recommendation system with item-item collaborative filtering.. 
+    Description: ALS-based movie recommendation system with item-item collaborative filtering..
     Source code link: https://gitfront.io/r/ompranavagrawal/iyoZbxC7nE6z/PySpark-Recommender-System/
 
 <div class="row"><h3>Introduction</h3></div>

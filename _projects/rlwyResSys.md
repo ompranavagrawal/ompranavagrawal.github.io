@@ -33,5 +33,3 @@ Key features include:
 <div class="row">
 Overall, this Railway Reservation System represents a modern, efficient, and scalable solution for managing railway reservations, demonstrating the effective use of Spring Boot and MongoDB in building high-performance web applications.
 </div><br>
-    
-

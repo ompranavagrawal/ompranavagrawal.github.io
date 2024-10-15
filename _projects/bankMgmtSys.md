@@ -7,7 +7,6 @@ importance: 4
 category: Software Engineering
 ---
 
-
     Title: Bank Management System
     Description: Application based on Python with Oracle 11g.
     Source code link: https://github.com/ompranavagrawal/Bank-Management-System.git
@@ -33,4 +32,3 @@ category: Software Engineering
     <li><b>Main Menu and Sign In</b>: The script provides a main menu for navigation and allows existing users to sign in and perform banking operations.</li></ul>
 </div>
 <div class="row">The script uses procedural programming to define functions for each feature and interacts with a database using SQL queries for data manipulation and retrieval. Each operation requires user input for various details, and the system provides feedback based on the actions performed.</div><br>
-
